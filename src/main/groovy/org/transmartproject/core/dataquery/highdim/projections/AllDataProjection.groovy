@@ -1,9 +1,6 @@
 package org.transmartproject.core.dataquery.highdim.projections
 
 
-/**
- * Created by jan on 1/27/14.
- */
 public interface AllDataProjection extends Projection<Map<String, Object>>, MultiValueProjection {
 
     /**
